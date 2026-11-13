@@ -1,0 +1,23 @@
+{
+  "name": "Magic Mark",
+  "summary_es": "Destaca texto temporalmente, sin cuentas ni almacenamiento.",
+  "summary_en": "Highlight text temporarily, with no accounts or storage.",
+  "license": "MIT",
+  "price": "free",
+  "maintainer": "phyrateborquez",
+  "support_url": "https://github.com/phyrateborquez/magic-mark/issues",
+  "privacy_url": "https://github.com/phyrateborquez/magic-mark/blob/main/PRIVACY.md",
+  "source_url": "https://github.com/phyrateborquez/magic-mark",
+  "status": "public GitHub source; store submission deferred by maintainer",
+  "default_locale": "es",
+  "locales": [
+    "es",
+    "en"
+  ],
+  "security_url": "https://github.com/phyrateborquez/magic-mark/security/advisories/new",
+  "firefox_id_status": "provisional",
+  "support_channel_status": "GitHub Issues enabled",
+  "security_channel_status": "GitHub Private Vulnerability Reporting enabled; verified through API",
+  "screenshots_status": "approved by maintainer; four 1280x800 RGB PNG files",
+  "asset_rights_status": "user-declared free unrestricted SVG sources; provenance not independently verified"
+}

@@ -1,0 +1,13 @@
+Magic Mark: highlight what matters as you read.
+
+Turn selected text into temporary yellow highlights. Mark several paragraphs and keep independent highlights in different tabs.
+
+Select text and click the Magic Mark button or use its context menu. The menu lets you undo the latest highlight or clear the document. Prefer a shortcut? Assign your own in your browser: none is assigned by default.
+
+Highlights disappear when you reload, leave the document or close the tab. They can also disappear if your browser discards a tab to save memory. There is no history, synchronization or recovery.
+
+No accounts, advertising or analytics. Magic Mark processes selections locally, does not save your selections and does not send data. It works when you request an action, without continuously monitoring pages.
+
+For selectable HTML text on ordinary web pages. Built-in PDFs, internal or protected pages, text in images and editors are excluded. Some external frames may be inaccessible. Dynamic pages may lose highlights when replacing text.
+
+A free, community, nonprofit, open-source project under MIT. The current interface uses Spanish labels.

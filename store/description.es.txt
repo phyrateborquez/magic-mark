@@ -1,0 +1,13 @@
+Magic Mark: destaca lo importante, mientras lees.
+
+Convierte el texto seleccionado en un destacado amarillo temporal. Marca varios párrafos y conserva marcas independientes en distintas pestañas.
+
+Selecciona texto y pulsa el botón de Magic Mark o usa su menú contextual. Desde ese menú puedes deshacer el último destacado o borrar los del documento. Si lo prefieres, asigna tu propio atajo en el navegador: no hay una combinación predeterminada.
+
+Los destacados desaparecen al recargar, salir del documento o cerrar la pestaña. También pueden perderse si el navegador descarga una pestaña para ahorrar memoria. No hay historial, sincronización ni recuperación.
+
+Sin cuentas, anuncios ni analítica. Magic Mark procesa la selección localmente, no guarda tus selecciones y no envía datos. Funciona cuando solicitas una acción, sin seguimiento continuo de las páginas.
+
+Para texto HTML seleccionable en páginas ordinarias. No incluye PDF integrado, páginas internas o protegidas, texto de imágenes ni editores. Algunos marcos externos pueden impedir el acceso. Las páginas dinámicas pueden perder marcas si reemplazan el texto.
+
+Proyecto gratuito, comunitario, sin fines de lucro y de código abierto bajo MIT. La interfaz actual usa etiquetas en español.

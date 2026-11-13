@@ -1,0 +1,10 @@
+{
+  "source": "icono.png",
+  "source_sha256": "77ad99a0030ad7bfb7e98733de1c123fddbcc745db15530aa7438e7219c8b44d",
+  "source_size": [
+    956,
+    768
+  ],
+  "processing": "aspect-preserving resize, transparent outer padding, supplied background retained",
+  "rights_status": "User states icon was composed from free anonymous SVG assets permitted for all uses; designated for this MIT project. Source URLs/license texts were not provided and were not independently verified."
+}

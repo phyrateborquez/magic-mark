@@ -1,0 +1,46 @@
+[
+  {
+    "file": "store-es-highlight-1280x800.png",
+    "source": "01-firefox-highlights.png",
+    "source_sha256": "a4bf6a04825996d4d68ab8170a82ffc056f780fe18103fb71c8627c985b2e3e4",
+    "output_sha256": "1304aab165e150bfcb4f8604a24aa0723ca89e209bc741ada6aa3f85c2c5ea8e",
+    "size": [
+      1280,
+      800
+    ],
+    "processing": "contain entire original; add title and caption outside screenshot; no highlight edits"
+  },
+  {
+    "file": "store-es-reload-1280x800.png",
+    "source": "02-firefox-reloaded.png",
+    "source_sha256": "8e42cef931dfaab7c67c1b8a6015472b2ea4ea0b423fc868dc2f51468bfdcbe6",
+    "output_sha256": "7fa830e510499d2552349fb2841ccfe423350eaaf62286d3b8b1dcb3548cd246",
+    "size": [
+      1280,
+      800
+    ],
+    "processing": "contain entire original; add title and caption outside screenshot; no highlight edits"
+  },
+  {
+    "file": "store-en-highlight-1280x800.png",
+    "source": "01-firefox-highlights.png",
+    "source_sha256": "a4bf6a04825996d4d68ab8170a82ffc056f780fe18103fb71c8627c985b2e3e4",
+    "output_sha256": "d4e13a8551cae400195e6dbbc386ed8821becf534be3aa987156d56ec7a02cce",
+    "size": [
+      1280,
+      800
+    ],
+    "processing": "contain entire original; add title and caption outside screenshot; no highlight edits"
+  },
+  {
+    "file": "store-en-reload-1280x800.png",
+    "source": "02-firefox-reloaded.png",
+    "source_sha256": "8e42cef931dfaab7c67c1b8a6015472b2ea4ea0b423fc868dc2f51468bfdcbe6",
+    "output_sha256": "c1e3f2d07f68daa34d4577482d955c9e76e2b191b95d1b768a995e9e1efedfb1",
+    "size": [
+      1280,
+      800
+    ],
+    "processing": "contain entire original; add title and caption outside screenshot; no highlight edits"
+  }
+]
