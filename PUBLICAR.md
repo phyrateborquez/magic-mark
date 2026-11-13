@@ -4,7 +4,7 @@
 
 ### Estado
 
-Código y material ES/EN preparados. Textos y capturas aprobados por el mantenedor el 13/11/2026, con posibilidad de modificarlos después. Subida a GitHub autorizada. Repositorio creado: https://github.com/phyrateborquez/magic-mark. Mantenedor público: phyrateborquez; contacto por Issues, sin publicar correo personal. Publicación en tiendas aplazada por decisión del mantenedor: no se debe iniciar aún.
+Código y material ES/EN preparados. Textos y capturas aprobados por el mantenedor el 13/11/2026, con posibilidad de modificarlos después. Código publicado y primera ejecución CI aprobada. Repositorio: https://github.com/phyrateborquez/magic-mark. Mantenedor público: phyrateborquez; contacto por Issues, sin publicar correo personal. Publicación en tiendas aplazada por decisión del mantenedor: no se debe iniciar aún.
 
 El mantenedor es la persona o cuenta que administra el proyecto, recibe avisos y publica versiones. Se usará el usuario público de GitHub propietario; no hace falta publicar un nombre legal ni correo personal. No se requieren contraseñas ni tokens en archivos o conversaciones.
 
@@ -46,7 +46,7 @@ https://docs.github.com/en/code-security/how-tos/report-and-fix-vulnerabilities/
 
 ### Status
 
-Code and ES/EN materials prepared. Copy and images approved by the maintainer on November 13, 2026, with future changes possible. GitHub upload authorized. Repository created: https://github.com/phyrateborquez/magic-mark. Public maintainer: phyrateborquez; contact through Issues, without publishing personal email. Store submission is deferred by the maintainer and must not begin yet.
+Code and ES/EN materials prepared. Copy and images approved by the maintainer on November 13, 2026, with future changes possible. Source published and first CI run passed. Repository: https://github.com/phyrateborquez/magic-mark. Public maintainer: phyrateborquez; contact through Issues, without publishing personal email. Store submission is deferred by the maintainer and must not begin yet.
 
 The maintainer is the person/account administering the project, receiving reports and releasing versions. Use the public owning GitHub username; a legal name or personal email need not be published. Never put passwords or tokens in files or conversations.
 

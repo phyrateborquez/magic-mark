@@ -6,7 +6,7 @@ Estado: repositorio GitHub público creado y canales habilitados. Envío a tiend
 
 - Licencia MIT, privacidad, instrucciones de contribución, cambios y política de seguridad.
 - Plantillas de errores, mejoras y pull requests.
-- CI para comprobar sintaxis, pruebas, manifiestos, lint Firefox y paquetes. Este flujo está escrito pero todavía no se ha ejecutado en GitHub.
+- CI para comprobar sintaxis, pruebas, manifiestos, lint Firefox y paquetes. Primera ejecución en GitHub aprobada: https://github.com/phyrateborquez/magic-mark/actions/runs/43522541969.
 - Construcción desde versión única en package.json, ZIP reproducibles y SHA-256.
 - Paquete de código fuente con lista explícita de archivos; excluye cachés, perfiles y dependencias.
 - Descripción de tienda y capturas locales de pruebas.

@@ -17,7 +17,7 @@
 
 - [x] Acceso GitHub CLI renovado para phyrateborquez.
 - [x] Repositorio público creado: https://github.com/phyrateborquez/magic-mark.
-- [ ] Subir árbol fuente y comprobar CI.
+- [x] Árbol fuente subido y CI aprobado: https://github.com/phyrateborquez/magic-mark/actions/runs/43522541969.
 - [x] Issues y Private Vulnerability Reporting habilitados; URLs añadidas.
 
 ### Tiendas: aplazado por el mantenedor
@@ -46,7 +46,7 @@ Guía reproducible: PUBLICAR.md. No hay envío ni publicación en tiendas. El ta
 
 - [x] GitHub CLI access refreshed for phyrateborquez.
 - [x] Public repository created: https://github.com/phyrateborquez/magic-mark.
-- [ ] Push source tree and check CI.
+- [x] Source pushed and CI passed: https://github.com/phyrateborquez/magic-mark/actions/runs/43522541969.
 - [x] Issues and private vulnerability reporting enabled; URLs added.
 
 ### Stores: deferred by maintainer
